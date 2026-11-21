@@ -1,0 +1,17 @@
+{
+  "source": "Selected fields from the completed on-device job history",
+  "engine": "lilipixel",
+  "state": "completed",
+  "prompt": "red apple with green leaf, transparent background",
+  "seed": 1466267403,
+  "size": 16,
+  "steps": 4,
+  "elapsed_seconds": 691.6,
+  "artifact": "first-apple.png",
+  "artifact_sha256": "9917b164bca2719d81bac8d2184789e626fb818075e7f20f8f4a450e40976bce",
+  "during_run_observation": {
+    "source": "Contemporaneous kernel process status reading after two steps",
+    "VmHWM_KiB": 88844,
+    "final_peak_RSS_KiB": null
+  }
+}
