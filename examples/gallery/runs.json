@@ -1,0 +1,122 @@
+[
+  {
+    "prompt_as_entered": "red apple with green leaf, transparent background",
+    "english_label": "First apple",
+    "size": 16,
+    "steps": 4,
+    "seed": 1466267403,
+    "elapsed_seconds": 691.6,
+    "file": "examples/first-apple.png",
+    "sha256": "9917b164bca2719d81bac8d2184789e626fb818075e7f20f8f4a450e40976bce"
+  },
+  {
+    "prompt_as_entered": "富士山",
+    "english_label": "Mount Fuji",
+    "size": 16,
+    "steps": 4,
+    "seed": 927318676,
+    "elapsed_seconds": 687.13,
+    "file": "examples/gallery/mount-fuji.png",
+    "sha256": "9df4c5f5c37e2dd95161f7e7616b91e3631a68647d43c7145905a167adcf406e"
+  },
+  {
+    "prompt_as_entered": "一只在星空里游泳的猫",
+    "english_label": "Cat swimming in a starry sky",
+    "size": 16,
+    "steps": 4,
+    "seed": 2137579881,
+    "elapsed_seconds": 649.64,
+    "file": "examples/gallery/starry-cat.png",
+    "sha256": "77604d018be7b7057569abaee68a43d8391f6efe185f896da5227be3673e1068"
+  },
+  {
+    "prompt_as_entered": "white car",
+    "english_label": "White car",
+    "size": 16,
+    "steps": 4,
+    "seed": 3690227003,
+    "elapsed_seconds": 675.54,
+    "file": "examples/gallery/white-car.png",
+    "sha256": "51b739d95d651e0e8ad8e0a7c47897d0a6bdfb0df77cf5e1ff9fb3aafcdf8b76"
+  },
+  {
+    "prompt_as_entered": "一辆侧面的黑色卡车",
+    "english_label": "Black truck, side view",
+    "size": 16,
+    "steps": 4,
+    "seed": 2821661076,
+    "elapsed_seconds": 669.59,
+    "file": "examples/gallery/black-truck.png",
+    "sha256": "7ffee3bf0b3cde1c817d6289329f26d39b963c128087170a800c21814b15cbff"
+  },
+  {
+    "prompt_as_entered": "黑色的劳斯莱斯汽车",
+    "english_label": "Black Rolls-Royce",
+    "size": 16,
+    "steps": 4,
+    "seed": 1390618104,
+    "elapsed_seconds": 579.78,
+    "file": "examples/gallery/black-car.png",
+    "sha256": "22758968c670c80edadd6161ec80af05428dddc4c48a62b2fe1712027efb709e"
+  },
+  {
+    "prompt_as_entered": "超级赛亚人",
+    "english_label": "Super Saiyan",
+    "size": 16,
+    "steps": 4,
+    "seed": 465590237,
+    "elapsed_seconds": 621.01,
+    "file": "examples/gallery/super-saiyan.png",
+    "sha256": "c21774d6eadce133907971af49e12ede67d36e56782f0cc7fd8f99c24c6044ed"
+  },
+  {
+    "prompt_as_entered": "超级赛亚人的金色发型",
+    "english_label": "Golden Super Saiyan hair",
+    "size": 16,
+    "steps": 4,
+    "seed": 717053819,
+    "elapsed_seconds": 635.58,
+    "file": "examples/gallery/golden-hair.png",
+    "sha256": "4d141b0c70e27e0d7103b1b41e141e12a777519489698f1d6b25a022bebea934"
+  },
+  {
+    "prompt_as_entered": "一杆98k狙击枪",
+    "english_label": "Kar98k rifle",
+    "size": 16,
+    "steps": 4,
+    "seed": 2521386424,
+    "elapsed_seconds": 658.15,
+    "file": "examples/gallery/kar98k.png",
+    "sha256": "a8f02147388d273838948c7b1bda1efcbb7be14d05879df446050b3a19e97cae"
+  },
+  {
+    "prompt_as_entered": "一把狙击枪",
+    "english_label": "Sniper rifle",
+    "size": 32,
+    "steps": 4,
+    "seed": 291503090,
+    "elapsed_seconds": 2742.58,
+    "file": "examples/gallery/rifle-32.png",
+    "sha256": "d2ee1d30edd1bd3b7c46ccc8639eec3fac1a9165cc69e90ba24b27aa7c68fb04"
+  },
+  {
+    "prompt_as_entered": "一把狙击枪",
+    "english_label": "Sniper rifle",
+    "size": 64,
+    "steps": 4,
+    "seed": 2462892398,
+    "elapsed_seconds": 2747.33,
+    "file": "examples/gallery/rifle-64.png",
+    "sha256": "110b7d5e5d8ff121638abf179d194610d8068650de0390a487e8806ad31f4ba3"
+  },
+  {
+    "prompt_as_entered": "shotgun",
+    "english_label": "Shotgun",
+    "size": 16,
+    "steps": 30,
+    "seed": 3909231103,
+    "elapsed_seconds": 4727.96,
+    "file": "examples/gallery/shotgun.png",
+    "sha256": "7f2546b4e32540ea3de48bc54985de8c5d06aacd7de2f6be8984e5527de803bd"
+  }
+]
